@@ -1,0 +1,2 @@
+20230908	23:32:44	3e1f69e3-d279-4752-a4c1-ed7d58c8939a	SyntaxError: Unexpected token } in JSON at position 122	POST	/users	undefined
+20230908	23:35:48	d7701efa-1785-4a45-834c-551e94fa7af4	SyntaxError: Unexpected token } in JSON at position 103	POST	/users	undefined
